@@ -1,1 +1,0 @@
-../forgotten_inventory/ctf.md

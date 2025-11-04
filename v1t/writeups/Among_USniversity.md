@@ -1,1 +1,0 @@
-../Among_USniversity/ctf.md

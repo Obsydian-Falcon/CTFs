@@ -1,1 +1,0 @@
-../duck_company/ctf.md
