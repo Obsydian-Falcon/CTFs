@@ -29,7 +29,7 @@ After some googling I found that uuencoding is an old way of sending attachments
 
 I also learned the **.COM** extension is a common extension for DOS binaries.
 
-To simulate creating the binary, I wrote a python script that took in the email, deccoded it, then wrote it out to a file named "FLaGPRNTR.COM"
+To simulate creating the binary, I wrote a python script that took in the email, deccoded it, then wrote it out to a file named "FLAGPRNTR.COM"
 
 ```Python
 import binascii
