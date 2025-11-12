@@ -1,0 +1,4 @@
+# Ignore older ctfs
+./Hackuten/*
+./UAC/*
+./reports/*
