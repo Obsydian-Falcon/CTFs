@@ -3,3 +3,6 @@ Hackuten
 UAC
 reports
 __pycache__
+
+# Ignore unfinished ctf challenges
+buckeye/Augury
