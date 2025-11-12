@@ -1,4 +1,5 @@
 # `Buckey CTF 2025`: `1985`
+Author: Walker Dauphin II (obysidan_falcon)
 
 ## Description
 * Category: `forensics`

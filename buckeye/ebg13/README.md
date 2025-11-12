@@ -1,4 +1,5 @@
 # `Buckeye CTF 2025` : `ebg13` 
+Author: Walker Dauphin II (obysidan_falcon)
 
 ## Description
 * Category: `web`
