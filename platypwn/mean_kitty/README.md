@@ -170,7 +170,11 @@ For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
 
 After reading the output, we can see that there are two sites besides proton.com that this user is registered to. Those sites are "archive.org" and "komoot.com". Komoot lets us search users by ID, but we don't know evilkitty's ID, let's check their tumblr archive again.
 
-After checking the archive again, we find this: [kitty's id](./kitty_id.png). It would appear that **5398925160033** is the user's komoot ID
+After checking the archive again, we find this:
+
+![kitty's id](./kitty_id.png) 
+
+It would appear that **5398925160033** is the kitty's komoot ID
 
 Ok, we know the user's komoot id, so let's plug it into the URL:
 >https://www.komoot.com/user/5398925160033
