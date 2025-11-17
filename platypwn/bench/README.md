@@ -7,7 +7,7 @@ Author: Walker Dauphin (obsydian)
 >Brute force is neither necessary nor allowed to solve this challenge. Do not attack the location picker tool. The tool is rate-limited to three tries per minute, so be careful when you submit. A full-resolution version of the image is available for download.
 
 Files:
-* [bench](./bench.jpg) 
+* ![image](./bench.jpg) 
 
 ## Tools Used
 * `google lens` -- reverse image search
@@ -24,21 +24,21 @@ After **google lens** failed, I opened up the picture in **gwenview** to look fu
 
 Now nowing about **AEKE** and **BRAMKE**, I looked them up. Initially, I thought maybe they were German cities or much older spellings of modern German townships. However, after searching in **google maps**, I discovered these weren't the names of towns or cities, but of *rivers*!
 
-[The rivers](./google_rivers.png)
+![image](./google_rivers.png)
 
 We use the picture from **google maps** to cross-reference the maps available on komoot.com. Based on the information from google, it's likely we're looking for an area where the **Aeke** and **Bramke** tributaries intersect, and we find this area: 
 
-[The rivers on komoot.com](./komoot_rivers.png)
+![image](./komoot_rivers.png)
 
 This picture looks *mighty* close to the reference we have on **google maps**, maybe we should zoom in further to see if there's a rest area...
 
-[A bench symbol on the komoot map](./bench_map.png)
+![image](./bench_map.png)
 
 Well well well, looks like there's a bench icon right on the map, where the **Aeke** and **Bramke** intersect! I think this might be where the original photo was taken! To find the flag, we now have to use the same tool used in the [ditch](../ditch/README.md) challenge and click on the precise point in the map where we believe the photo originated.
 
 After some 4 clicks, we find it!
 
-[The bench on Platypwn's OSINT map tool](./found_bench.png)
+![image](./found_bench.png)
 
 Our flag is:
 

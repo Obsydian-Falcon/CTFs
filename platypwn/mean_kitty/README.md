@@ -5,7 +5,7 @@ Author: Walker Dauphin (obsydian)
 >Anonymous sources have provided us with some mysterious threats towards us. Can you track down the mean kitty and protect our flags?
 
 Files:
-* [mean kitty](./mean-kitty.png)
+* ![image](./mean-kitty.png)
 
 ## Tools used
 * `sherlock` [tool link](https://github.com/sherlock-project/sherlock)-- Check username across sites
@@ -20,7 +20,9 @@ I looked at the provided PNG and used **sherlock** to get information on the use
 This gave me a multitude of accounts, but the most interesting was the tumblr account shown, and that account also matched the PNG provided
 
 ## Solution
-After finding the user's tumblr account, I looked  at the user's posted photos and found this: [tumblr post](./kitty_cat_tumblr.png)
+After finding the user's tumblr account, I looked  at the user's posted photos and found this: 
+
+![image](./kitty_cat_tumblr.png)
 
 This tells me that the user has an email address at **evilkitty07@proton.me**
 
@@ -174,7 +176,7 @@ Ok, we know the user's komoot id, so let's plug it into the URL:
 
 This gives us kittycat060's komoot profile, where they've kindly posted the flag for us!
 
-[kitty's komoot page](./kitty_flag.png)
+![image](./kitty_flag.png)
 
 The flag is: `PP{g0oD_j0B_tr4ck1n6_k1773n5}`
 
