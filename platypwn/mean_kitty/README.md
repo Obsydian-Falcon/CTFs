@@ -15,6 +15,7 @@ Files:
 I looked at the provided PNG and used **sherlock** to get information on the user.
 
 `sherlock kittycat060`
+
 `sherlock @kittycat060`
 
 This gave me a multitude of accounts, but the most interesting was the tumblr account shown, and that account also matched the PNG provided
