@@ -19,9 +19,13 @@ For those that don't want to watch the video, it's a short video (about 10 secon
 ## Solution
 After watching the video several times, it finally occured to me that maybe I had missed something that happened really fast. So using **VLC's** speed controls, I watched the video in slow motion. 
 
-After doing so, I found a particular frame in the video worth that was interesting: [the frame in question](./picture_undoctored.png)
+After doing so, I found a particular frame in the video worth that was interesting:
 
-I used **gwenview** (the default photo viewer/editor in KDE) to mirror the image to read it easier: [the mirrored image](./pp_pwnies_flag.png)
+![the frame in question](./picture_undoctored.png)
+
+I used **gwenview** (the default photo viewer/editor in KDE) to mirror the image to read it easier:
+
+![the mirrored image](./pp_pwnies_flag.png)
 
 We can see the flag in the mirrored image!
 

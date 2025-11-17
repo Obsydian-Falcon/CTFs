@@ -3,9 +3,7 @@ Author: Walker Dauphin (obsydian)
 
 ## Description
 >The challenge author has found a nice ditch, so they took a photo of it including the signpost with its coordinates on. But what is that! A Platypwny has eaten up the coordinates!
-
 >Luckily, you can still find the coordinates again, right?
-
 >Brute force is neither necessary nor allowed to solve this challenge. Do not attack the location picker tool. The tool is rate-limited to three tries per minute, so be careful when you submit. A full-resolution version of the image is available for download. This is not a forensics challenge.
 
 Files:
@@ -21,12 +19,12 @@ I plugged the provided png file into **google lens** to see what would pop up. T
 
 After the first reverse image search, I tried looking into the most obvious information that wasn't obfuscated in the photo, the picture of the blue sign with **125** written on it. To do this, I cropped the original photo using **gwenview** to just focus on the blue sign and try to decipher the writing above the number 
 
-[the cropped photo](./unknown_sign.png)
+![the cropped photo](./unknown_sign.png)
 
 ## Solution
 After cropping the photo, I plugged it into google lens and focused the search engine on the text, that got me this:
 
-[stamp!](./stamp_pic.png)
+![stamp!](./stamp_pic.png)
 
 Ok, so we know now that the sign says **Stempelstalle** with 125 underneath. Cool, now we need to find where this "stamp 125" would be administered in the world. So, the next query into google is "stampelstelle 125". After enerting this query into google, we find this [website](https://www.harzer-wandernadel.de/stempelstellen/uebersichtskarte/stempelstelle-125-schalker-turm/)
 
@@ -38,15 +36,15 @@ Anyway, I decided to look up this **Schalker Turm** trail on **komoot** and look
 
 After scrolling from through the 600+ available photos on the site, it looks like we've found a picture of our spot! Albeit, from a different angle:
 
-[Same picture, different angle](./trail_clue.png)
+![Same picture, different angle](./trail_clue.png)
 
 We can narrow it down even further on komoot by hovering over the picture and zooming in on the map like so:
 
-[Enhance!](./narrowing_down.png)
+![Enhance!](./narrowing_down.png)
 
 Now it's time to submit, the Platypwn website provides a mapping tool on which the user must click the precise coordinates of where the originally provided picture was taken. So, I clicked around in that general area for about 30ish minutes until it submitted.
 
-[The original location](./found_ditch!.png)
+![The original location, found after clicking about](./found_ditch!.png)
 
 This provides us with the flag which we can then submit:
 
