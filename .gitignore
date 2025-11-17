@@ -6,3 +6,24 @@ __pycache__
 
 # Ignore unfinished ctf challenges
 buckeye/Augury
+platypwn/copypasta
+platypwn/password_check
+platypwn/men_at_work
+
+
+# Ignore cloned repos and the like
+# Mean kitty
+platypwn/mean_kitty/holehe
+platypwn/mean_kitty/maigret
+platypwn/mean_kitty/osint-meankitty
+platypwn/mean_kitty/osint.meankitty.zip
+# Flag submission system
+platypwn/flag_submission_system/osint-flagsubmissionsystem
+# Ditch
+platypwn/ditch/osint-ditch
+platypwn/ditch/osint.ditch.zip
+
+
+
+
+
